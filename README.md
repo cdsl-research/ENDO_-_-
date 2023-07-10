@@ -2,4 +2,5 @@
 遠藤の4年前期卒業課題
 
 ・DockerCacheRebuild：提案本体。DockerのCOPY処理を分割して、次回以降のファイルキャッシュ使用率の向上を狙うPythonファイル
+
 ・GitAPI：DockerCacheRebuildで使う更新回数が記録されたCSVファイルを作成するPythonファイル
